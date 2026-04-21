@@ -2,8 +2,6 @@
 
 The Enterprise Banking DBMS uses a fully normalized schema designed to maintain referential integrity and support highly concurrent scaling.
 
-![ER Diagram](./er_diagram.png)
-
 ## Database Flowchart
 
 Below is a Mermaid flowchart representing the Entity relationships and Foreign Key constraints.
